@@ -1,4 +1,4 @@
-// The Code Train projekt
+// The Coding Train projekt
 
 function make2DArray(cols, rows) {
   let arr = new Array(cols);
